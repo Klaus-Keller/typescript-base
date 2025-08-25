@@ -1,0 +1,12 @@
+{
+  "name": "typescript-base",
+  "version": "0.0.1",
+  "scripts": {
+    "start": "ts-node src/index.ts"
+  },
+  "devDependencies": {
+    "@types/node": "24.3.0",
+    "ts-node": "10.9.2",
+    "typescript": "5.9.2"
+  }
+}
